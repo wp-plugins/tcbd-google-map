@@ -24,7 +24,6 @@ This plugin will enable Awesome Google map in your Wordpress theme.
 = Demo =
 
 * [Click Here](http://demos.tcoderbd.com/wordpress_plugins/tcbd-google-map-awesome-wordpress-plugin/)
-* [Click Here](http://demos.tcoderbd.com/wordpress_plugins/tcbd-google-map-awesome-wordpress-plugin/)
 
 == Screenshots ==
 
